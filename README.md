@@ -1,4 +1,4 @@
-# technohacks internship program 
+# technohacks internship program  c++
 
 
 1st task--  password generator
